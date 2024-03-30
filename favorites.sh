@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/sh
 
 echo Installing my favorite apps...
 
@@ -10,7 +10,3 @@ while read -r p ; do sudo apt get install -y $p ; done < <(cat << "EOF"
     trash-cli
 EOF
 )
-
-echo +======+
-echo | DONE |
-echo +======+
