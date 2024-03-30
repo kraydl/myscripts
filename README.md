@@ -1,3 +1,4 @@
-# myscripts
+## myscripts
 
-# Nothing special.  Just some scripts I use.
+    Just some scripts I use for various purposes.
+    Nothing special. Just stuff.
